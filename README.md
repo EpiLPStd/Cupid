@@ -37,3 +37,6 @@ album wraz ze zdjęciami i loginami użytkowników z możliwością pobrania zdj
 - _album_ / _pdfExport.js_ - skrypt zawierający funkcję tworzącą plik PDF z utworzonego albumu
 - _album_ / _toHTML.js_ - skrypt tworzący stronę html z utworzonym albumem
 - _album_ / _toPDF.js_ - skrypt zawierający funkcję zapisującą album jako plik PDF
+
+#### Pliki bibliotek zewnętrznych
+Pliki _blobstream.js_ oraz _pdfKit.js_ to zewnętrzne pliki, które zostały wykorzystane w celu prawidłowego działania projektu.
